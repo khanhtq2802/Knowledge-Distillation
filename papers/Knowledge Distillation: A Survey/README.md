@@ -176,9 +176,9 @@ ba loại chưng chất này có thể kết hợp để bổ sung cho nhau do c
 
 Kiến thức được chuyển từ một pre-trained teacher model sang cho một student model. Có 2 bước:
 
-- huấn luyện mô hình teacher trước
+- Bước 1: huấn luyện mô hình teacher trước
 
-- sử dụng thông tin của teacher model để huấn luyên mô hình student
+- Bước 2: sử dụng thông tin của teacher model để huấn luyên mô hình student
 
 các nghiên cứu tập trung vào bước thứ 2: design of knowledge, loss functions for matching features or distributions matching
 
